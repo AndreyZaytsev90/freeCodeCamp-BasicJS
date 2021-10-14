@@ -14,3 +14,10 @@ myStr += "This is the second sentence.";
 // Only change code below this line
 var myName = "Andrey";
 var myStr = "My name is " + myName + ", and I am well!";
+
+29;
+// Change code below this line
+
+var someAdjective = "cool!";
+var myStr = "Learning to code is ";
+myStr += someAdjective;
