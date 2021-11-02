@@ -51,3 +51,17 @@ function abTest(a, b) {
 }
 
 abTest(2, 2);
+
+82;
+
+83;
+
+const myDog = {
+  // Only change code below this line
+  name: "Chernysh",
+  legs: 4,
+  tails: 1,
+  friends: ["Buba", "Biba"],
+
+  // Only change code above this line
+};
